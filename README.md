@@ -2,6 +2,8 @@
 
 Minimal HTTP server for stress tests
 
+cowboy2.2 via handler
+
 Build:
 > mix deps.get
 
